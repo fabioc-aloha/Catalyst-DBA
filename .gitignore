@@ -1,0 +1,301 @@
+# DBA Research Project .gitignore
+# Optimized for Doctoral Business Administration research with sensitive data protection
+
+# =============================================================================
+# SENSITIVE RESEARCH DATA - NEVER COMMIT
+# =============================================================================
+
+# Research Data & Participants
+/data/
+/participants/
+/interviews/
+/survey-responses/
+/confidential/
+/raw-data/
+/analysis-data/
+*.dta
+*.sav
+*.xlsx
+*.xls
+**/sensitive-*
+**/confidential-*
+**/participant-*
+**/interview-*
+
+# IRB and Ethics Documents (keep templates, exclude actual submissions)
+/irb-submissions/
+/ethics-approvals/
+/consent-forms-completed/
+**/irb-actual-*
+**/ethics-real-*
+
+# Personal Research Notes (exclude from collaboration)
+/personal-notes/
+/private-thoughts/
+/journal/
+**/personal-*
+**/private-*
+
+# =============================================================================
+# TEMPORARY FILES AND SYSTEM
+# =============================================================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# =============================================================================
+# DEVELOPMENT AND IDE
+# =============================================================================
+
+# Visual Studio Code
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/tasks.json
+!.vscode/settings-template.json
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# =============================================================================
+# ACADEMIC AND RESEARCH TOOLS
+# =============================================================================
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lot
+*.lof
+*.idx
+*.ind
+*.ilg
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+*.glsdefs
+*.nav
+*.snm
+*.vrb
+
+# Reference Managers
+*.bak
+**/mendeley-*
+**/zotero-cache/
+**/endnote-*
+
+# Statistical Software
+*.dta~
+*.sav~
+*.R.bak
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+*.RDS
+
+# =============================================================================
+# DOCUMENT PROCESSING
+# =============================================================================
+
+# Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+*.bak
+
+# Adobe
+*.pdf~
+*.ai~
+*.psd~
+
+# =============================================================================
+# BACKUP AND VERSION CONTROL
+# =============================================================================
+
+# Backup files
+*.backup
+*.old
+*-backup.*
+*-old.*
+*_backup.*
+*_old.*
+
+# Auto-save files
+#*#
+*#
+
+# Version control
+.git-backup/
+*.orig
+*.rej
+
+# =============================================================================
+# BUILD AND COMPILATION
+# =============================================================================
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# =============================================================================
+# LOGS AND TEMPORARY
+# =============================================================================
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# =============================================================================
+# DBA RESEARCH SPECIFIC
+# =============================================================================
+
+# Methodology Development Drafts
+/methodology-drafts/
+/proposal-versions/
+/committee-feedback/
+**/draft-*
+**/version-*
+
+# Data Analysis Working Files
+/analysis-temp/
+/spss-temp/
+/r-temp/
+/stata-temp/
+*.working
+*.temp
+
+# Dissertation Drafts (keep final versions)
+/dissertation-drafts/
+/chapter-drafts/
+**/chapter-*-draft*
+**/dissertation-*-draft*
+
+# Committee Communications (sensitive)
+/committee-emails/
+/advisor-communications/
+**/committee-*
+**/advisor-*
+
+# =============================================================================
+# COLLABORATION EXCLUSIONS
+# =============================================================================
+
+# Personal cognitive architecture customizations
+/personal-prompts/
+/custom-instructions/
+**/my-*
+**/personal-*
+
+# Local development settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =============================================================================
+# RESEARCH COMPLIANCE
+# =============================================================================
+
+# Keep these patterns commented for reference but don't exclude
+# (These should be included in repository for transparency)
+# 
+# /ethics-templates/          # INCLUDE: Templates should be shared
+# /methodology-public/        # INCLUDE: Public methodology documentation
+# /findings-public/          # INCLUDE: Non-sensitive findings
+# /literature-review/        # INCLUDE: Literature review materials
+# /theoretical-framework/    # INCLUDE: Theoretical development
+
+# =============================================================================
+# ARCHIVE AND HISTORICAL
+# =============================================================================
+
+# Archive directories
+/archive/
+/historical/
+/old-versions/
+**/archived-*
+**/historical-*
+
+# =============================================================================
+# CACHE AND TEMPORARY PROCESSING
+# =============================================================================
+
+# Cache
+.cache/
+.temp/
+.tmp/
+cache/
+temp/
+tmp/
+
+# Processing files
+*.processing
+*.inprogress
+*.pending

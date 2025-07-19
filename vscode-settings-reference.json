@@ -1,0 +1,16 @@
+{
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "chat.promptFiles": true,
+  "chat.instructionsFilesLocations": [".github/instructions"],
+  "markdown.extension.toc.levels": "1..6",
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+  "cSpell.language": "en-US",
+  "cSpell.enableFiletypes": ["markdown", "latex", "text"],
+  "rewrap.wrappingColumn": 80,
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "pdflatex",
+      "tools": ["pdflatex"]
+    }
+  ]
+}
