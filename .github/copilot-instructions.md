@@ -35,6 +35,7 @@ IMPORTANT: This file serves as Global DBA Declarative Memory. Optimized for doct
 - `ethics-compliance.instructions.md` → Research ethics for *ethics*, *IRB*, *compliance* files
 - `learning.instructions.md` → Meta-cognitive learning for *instructions*, *learning* files
 - `meta-cognition.instructions.md` → Self-awareness for *meta*, *monitor*, *assess* files
+- `git-academic-workflow.instructions.md` → Academic version control for *git*, *commit*, *version*, *repository* files
 
 ### DBA Episodic Memory Activation (Research Workflows):
 - `research-proposal.prompt.md` → DBA research proposal development
@@ -71,6 +72,15 @@ IMPORTANT: This file serves as Global DBA Declarative Memory. Optimized for doct
 - **Empirical integrity verification required → Apply "accurate analysis FIRST, then conservative presentation" protocols**
 - **Enterprise implementation preparation → Integrate business research findings with organizational frameworks**
 - **Academic-industry bridge building → Connect DBA research with enterprise implementation evidence**
+
+### Git Integration and Version Control Triggers
+
+- **Git setup required → Initialize academic repository with research-grade configuration**
+- **Academic commit workflows needed → Apply categorical commit templates (📋 RESEARCH, 📚 LITERATURE, 📝 WRITING, 🧠 COGNITIVE, 📊 DATA)**
+- **Research collaboration initiated → Activate Git branch strategies for committee reviews and peer collaboration**
+- **Milestone tracking requested → Use git timeline and milestone tagging for academic progress visualization**
+- **IRB compliance verification → Ensure .gitignore protection for sensitive research data and participant information**
+- **Repository documentation needed → Maintain comprehensive README with university resources and quick access links**
 
 ## 🧠 Automatic Memory Consolidation Protocol
 
@@ -110,6 +120,8 @@ IMPORTANT: This file serves as Global DBA Declarative Memory. Optimized for doct
 **Complex Research Workflows**: Multi-phase DBA projects → Business research episodic memory (.prompt.md)
 **Archive Management**: Obsolete business theories → Historical storage in specialized files
 **Index Maintenance**: Auto-update DBA Long-Term Memory Index during transfers
+**Git Integration**: Academic workflow patterns → Version control memory (.gitmessage templates, commit aliases)
+**University Resources**: Institutional knowledge → Quick access integration (README.md Touro section)
 
 ## 📚 DBA Long-Term Memory Index
 
@@ -131,6 +143,7 @@ IMPORTANT: This file serves as Global DBA Declarative Memory. Optimized for doct
 | ethics-compliance.instructions.md | Research Ethics | *ethics*, *IRB*, *compliance* | Auto-tracked |
 | learning.instructions.md | Meta-Learning | *instructions*, *learning* | Auto-tracked |
 | meta-cognition.instructions.md | Self-Monitoring | *meta*, *monitor*, *assess* | Auto-tracked |
+| git-academic-workflow.instructions.md | Academic Version Control | *git*, *commit*, *version*, *repository* | Auto-tracked |
 
 ### DBA Episodic Memory Store (.github/prompts/)
 | File | Research Workflow | Complexity Level | Usage Frequency |
@@ -152,11 +165,11 @@ IMPORTANT: This file serves as Global DBA Declarative Memory. Optimized for doct
 | cognitive-health.prompt.md | Health Monitoring | Medium | Auto-tracked |
 
 ### DBA Memory Transfer Protocol Status
-- **Active Files**: 30 specialized DBA memory files (15 procedural + 15 episodic)
-- **Last Consolidation**: APA 7th edition compliance and academic writing standards integration
-- **Cognitive Load Status**: Optimized for doctoral business research with rigorous academic writing standards
-- **Index Synchronization**: Maintained automatically during consolidation
-- **Meta-Cognitive Status**: Fully operational with APA 7th edition compliance and direct academic discourse
+- **Active Files**: 31 specialized DBA memory files (16 procedural + 15 episodic)
+- **Last Consolidation**: Git academic workflow integration and version control best practices
+- **Cognitive Load Status**: Optimized for doctoral business research with Git-based collaboration and rigorous academic writing standards
+- **Index Synchronization**: Maintained automatically during consolidation with Git integration
+- **Meta-Cognitive Status**: Fully operational with APA 7th edition compliance, Git workflow automation, and direct academic discourse
 
 ---
 
