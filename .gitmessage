@@ -1,0 +1,40 @@
+# DBA Research Commit Template
+# 
+# Format: [Category] Brief Description
+#
+# Categories:
+# 📋 RESEARCH  - Research methodology, data collection, analysis
+# 📚 LITERATURE - Literature review, citations, references
+# 📝 WRITING   - Dissertation chapters, academic papers
+# 🧠 COGNITIVE - Cognitive architecture improvements
+# 📊 DATA      - Data analysis, visualizations, findings
+# 🔬 METHOD    - Methodology development, validation
+# 📖 DOCS      - Documentation updates, manual changes
+# 🎯 PROPOSAL  - Research proposal development
+# 🏢 BUSINESS  - Business application, practical implications
+# 🔧 SETUP     - Configuration, environment setup
+# 🐛 FIX       - Bug fixes, error corrections
+# ✅ COMPLETE  - Milestone completion, deliverables
+#
+# Academic Standards:
+# - Include IRB approval numbers when applicable
+# - Reference APA 7th edition compliance
+# - Note any methodological changes
+# - Document data collection milestones
+# - Track dissertation chapter progress
+#
+# Example commit messages:
+# 📋 RESEARCH: Complete participant interview protocol validation
+# 📚 LITERATURE: Add systematic review methodology section
+# 📝 WRITING: Draft Chapter 3 methodology framework
+# 🧠 COGNITIVE: Enhance qualitative analysis workflow automation
+# 📊 DATA: Implement mixed-methods integration analysis
+#
+# Detailed Description (if needed):
+# 
+# Business Impact:
+# 
+# Academic Compliance:
+# 
+# Next Steps:
+# 
