@@ -164,6 +164,102 @@ DBA/
 - Cost-benefit analysis
 - Risk assessment and mitigation
 
+## 🏫 Touro University Worldwide Resources
+
+### 📚 Official University Links
+
+**Primary University Portal:**
+- [Touro University Worldwide](https://www.tuw.edu/) - Main university website and portal
+- [TUW Student Portal](https://portal.tuw.edu/) - Student services and academic portal
+- [TUW Course Catalog](https://www.tuw.edu/academics/course-catalog/) - Complete course listings and descriptions
+
+### 📖 Library & Research Resources
+
+**Library Services:**
+- [TUW Library](https://library.tuw.edu/) - Main library portal and research hub
+- [Library Research Guides](https://library.tuw.edu/research-guides) - Subject-specific research assistance
+- [Database Access](https://library.tuw.edu/databases) - Academic databases and research tools
+- [LibGuides](https://tuw.libguides.com/) - Research guides and tutorials
+- [Citation Resources](https://library.tuw.edu/citation) - APA 7th edition and citation support
+
+**Research Support:**
+- [Research Help Desk](https://library.tuw.edu/research-help) - One-on-one research assistance
+- [Dissertation Support](https://library.tuw.edu/dissertation) - Doctoral research resources
+- [Writing Center](https://www.tuw.edu/student-services/writing-center/) - Academic writing assistance
+
+### 🎓 DBA Program Resources
+
+**DBA Program Information:**
+- [Doctor of Business Administration](https://www.tuw.edu/programs/doctoral/dba/) - DBA program overview
+- [DBA Curriculum](https://www.tuw.edu/programs/doctoral/dba/curriculum/) - Course requirements and sequencing
+- [DBA Faculty](https://www.tuw.edu/programs/doctoral/dba/faculty/) - Faculty profiles and expertise areas
+- [DBA Admission Requirements](https://www.tuw.edu/programs/doctoral/dba/admission/) - Application process and requirements
+
+**Doctoral Research Resources:**
+- [Dissertation Guidelines](https://www.tuw.edu/academics/dissertation-guidelines/) - Formatting and submission requirements
+- [IRB (Institutional Review Board)](https://www.tuw.edu/research/irb/) - Research ethics and approval process
+- [Academic Calendar](https://www.tuw.edu/academics/academic-calendar/) - Important dates and deadlines
+- [Graduate Academic Policies](https://www.tuw.edu/academics/policies/graduate/) - Academic standards and procedures
+
+### 💻 Technology & Learning Platforms
+
+**Learning Management System:**
+- [Canvas LMS](https://tuw.instructure.com/) - Course content and assignments
+- [Canvas Mobile App](https://community.canvaslms.com/t5/Canvas-Student-Guide/How-do-I-download-the-Canvas-mobile-apps-as-a-student/ta-p/477) - Mobile access to courses
+- [Canvas Student Guide](https://community.canvaslms.com/t5/Canvas-Student-Guide/tkb-p/student) - Platform navigation help
+
+**Technology Support:**
+- [IT Help Desk](https://www.tuw.edu/student-services/it-support/) - Technical assistance
+- [Software Downloads](https://www.tuw.edu/student-services/software/) - Student software access
+- [Email Setup](https://www.tuw.edu/student-services/email/) - Student email configuration
+
+### 📞 Student Services & Support
+
+**Academic Support:**
+- [Academic Advising](https://www.tuw.edu/student-services/academic-advising/) - Degree planning and guidance
+- [Student Success Center](https://www.tuw.edu/student-services/student-success/) - Academic coaching and support
+- [Disability Services](https://www.tuw.edu/student-services/disability-services/) - Accommodations and accessibility
+
+**Administrative Services:**
+- [Registrar](https://www.tuw.edu/academics/registrar/) - Transcripts, enrollment, and records
+- [Financial Aid](https://www.tuw.edu/tuition-aid/financial-aid/) - Funding and scholarship information
+- [Student Accounts](https://www.tuw.edu/tuition-aid/student-accounts/) - Billing and payment services
+
+### 🔬 Research & Ethics Resources
+
+**Research Compliance:**
+- [Human Subjects Research](https://www.tuw.edu/research/human-subjects/) - IRB protocols and training
+- [Research Ethics Training](https://www.tuw.edu/research/ethics-training/) - CITI program and compliance
+- [Data Security Guidelines](https://www.tuw.edu/research/data-security/) - Research data protection
+
+**Publication & Dissemination:**
+- [Scholarly Communication](https://library.tuw.edu/scholarly-communication) - Publication guidance and support
+- [Open Access Resources](https://library.tuw.edu/open-access) - Publishing and copyright information
+- [Research Showcase](https://www.tuw.edu/research/showcase/) - Student research presentations
+
+### 📧 Key Contact Information
+
+**DBA Program Contacts:**
+- **DBA Program Director**: [Contact via program page](https://www.tuw.edu/programs/doctoral/dba/faculty/)
+- **Academic Advisors**: Available through student portal scheduling
+- **Dissertation Committee**: Faculty assignments through program coordinator
+
+**Support Services:**
+- **Library Reference**: Available via chat, email, and appointment
+- **IT Help Desk**: 24/7 support via phone and online portal
+- **Student Services**: Business hours support for all administrative needs
+
+### 🎯 Quick Access Dashboard
+
+**Daily Use Links:**
+- [Student Portal Login](https://portal.tuw.edu/) - Primary access point
+- [Canvas Courses](https://tuw.instructure.com/) - Course materials and assignments
+- [Library Databases](https://library.tuw.edu/databases) - Research resources
+- [Email Access](https://outlook.office365.com/) - Student email system
+
+**Research Workflow Links:**
+- [Database Search](https://library.tuw.edu/databases) → [Citation Manager](https://library.tuw.edu/citation) → [Writing Center](https://www.tuw.edu/student-services/writing-center/) → [IRB Submission](https://www.tuw.edu/research/irb/)
+
 ## 🤝 Contributing
 
 This cognitive architecture is designed for doctoral researchers, academic advisors, and business practitioners engaged in rigorous applied research. Contributions should maintain the empirical integrity foundation and practitioner-scholar integration principles.
