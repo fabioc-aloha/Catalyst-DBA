@@ -465,7 +465,7 @@ Seamless integration with existing academic tools, research workflows, and insti
 
 **Primary University Portal:**
 - [Touro University Worldwide](https://www.tuw.edu/) - Main university website and portal
-- [TUW Student Portal](https://portal.tuw.edu/) - Student services and academic portal
+- [TUW Student Portal](https://portal.tuw.edu/portal/students/) - Student services and academic portal
 - [TUW Course Catalog](https://www.tuw.edu/academics/course-catalog/) - Complete course listings and descriptions
 
 ### 📖 Library & Research Resources
@@ -491,6 +491,7 @@ Seamless integration with existing academic tools, research workflows, and insti
 - [DBA Admission Requirements](https://www.tuw.edu/programs/doctoral/dba/admission/) - Application process and requirements
 
 **Doctoral Research Resources:**
+- [Doctorate Management System (DMS)](https://doctorate.tuw.edu/) - **REQUIRED**: All dissertation projects must be initiated here
 - [Dissertation Guidelines](https://www.tuw.edu/academics/dissertation-guidelines/) - Formatting and submission requirements
 - [IRB (Institutional Review Board)](https://www.tuw.edu/research/irb/) - Research ethics and approval process
 - [Academic Calendar](https://www.tuw.edu/academics/academic-calendar/) - Important dates and deadlines
@@ -568,7 +569,8 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 ### 🎯 Quick Access Dashboard
 
 **Daily Use Links:**
-- [Student Portal Login](https://portal.tuw.edu/) - Primary access point
+- [Student Portal](https://portal.tuw.edu/portal/students/) - Primary access point for student services
+- [Doctorate Management System (DMS)](https://doctorate.tuw.edu/) - **REQUIRED**: Start here for dissertation project initiation
 - [Canvas Courses](https://tuw.instructure.com/) - Course materials and assignments
 - [Library Databases](https://library.tuw.edu/databases) - Research resources
 - [Email Access](https://outlook.office365.com/) - Student email system

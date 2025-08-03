@@ -227,24 +227,6 @@ worldview-foundation/
 
 ---
 
-## 🏫 Touro University Worldwide Integration
-
-**Academic Calendar Alignment**: Flexible 8-week term system support starting January, March, May, June, September, October
-
-**Program Resources**:
-
-- [TUW DBA Program](https://www.tuw.edu/programs/doctoral/dba/) - Official program information
-- [TUW Library](https://library.tuw.edu/) - Research databases and academic support
-- [Canvas LMS](https://tuw.instructure.com/) - Course materials and assignments
-
-**Research Support**:
-
-- IRB compliance protocols aligned with university requirements
-- Dissertation guidelines and formatting standards
-- Committee interaction and milestone tracking
-
----
-
 ## 🚀 Success Metrics
 
 **Academic Milestones**:
@@ -293,138 +275,8 @@ Project Catalyst provides the comprehensive support system you need to complete 
 ---
 
 *Project Catalyst v1.0.0 NILENNUNIUM - Complete DBA Research Intelligence System with 45 specialized memory files, 25 cognitive commands, and unified Alex consciousness for doctoral research excellence.*
-│   ├── literature/                     # Literature Review Management
-│   ├── data/                          # Primary and Secondary Data
-│   ├── analysis/                      # Analytical Outputs
-│   └── methodology/                   # Research Method Documentation
-├── dissertation/                      # Doctoral Dissertation Structure
-│   ├── chapter1-introduction/
-│   ├── chapter2-literature-review/
-│   ├── chapter3-methodology/
-│   ├── chapter4-findings/
-│   └── chapter5-conclusions/
-├── publications/                      # Academic Publication Pipeline
-├── tools-software/                    # Research Technology Stack
-└── references/                        # Bibliography Management
-│   └── chapter5-conclusions/
-├── publications/                       # Academic Publication Pipeline
-├── tools-software/                     # Research Technology Stack
-└── references/                         # Bibliography Management
 
-```
-
-## 🚀 Quick Start
-
-### Prerequisites
-- VS Code with GitHub Copilot
-- Git for version control and research progress tracking
-- Access to academic databases
-- Research analysis software (NVivo, SPSS, R)
-
-### Setup Instructions
-1. **Clone this repository** to your local development environment
-   ```bash
-   git clone <repository-url>
-   cd DBA
-```
-
-2. **Configure VS Code settings** as specified in `SETUP-DBA.md`
-3. **Review cognitive architecture** in `.github/copilot-instructions.md`
-4. **Explore procedural memory** files in `.github/instructions/`
-5. **Begin with research proposal** using `.github/prompts/research-proposal.prompt.md`
-
-### Git Repository Features
-
-- **Comprehensive .gitignore**: Protects sensitive research data and participant information
-- **Academic-focused version control**: Optimized for dissertation development and research collaboration
-- **IRB compliance**: Automatic exclusion of confidential research materials
-- **Collaborative research**: Support for committee reviews and peer collaboration
-
-## 📖 Documentation
-
-- **Quick Start**: [`ALEX-COMMAND-REFERENCE.md`](ALEX-COMMAND-REFERENCE.md) - Complete command guide with 25 cognitive commands
-- **Setup Guide**: [`SETUP-DBA.md`](SETUP-DBA.md) - Complete installation and configuration
-- **User Manual**: [`MANUAL-DBA.md`](MANUAL-DBA.md) - Usage instructions and workflows
-- **Cognitive Architecture**: [`.github/copilot-instructions.md`](.github/copilot-instructions.md) - Global memory coordination
-- **System Visualization**: [`Catalyst-Graph.ps1`](Catalyst-Graph.ps1) - PowerShell script for generating visual maps of the cognitive architecture, memory systems, and synaptic connections
-
-## 🎯 Core Principles
-
-### Empirical Integrity Foundation
-
-- **"Accurate analysis FIRST, then conservative presentation"**
-- Research-grade accuracy with conservative presentation
-- APA 7th edition compliance with doctoral sophistication
-- Peer-review publication standards
-
-### Practitioner-Scholar Integration
-
-- Bridge theory-practice gap through rigorous methodology
-- Apply academic research to real business problems
-- Balance scholarly rigor with practical utility
-- Support evidence-based business decision making
-
-### Academic Excellence
-
-- Doctoral-level methodological sophistication
-- Multi-method research approaches
-- Comprehensive literature integration
-- Original contribution to business knowledge
-
-## 🔬 Research Methodology Support
-
-### Qualitative Research
-
-- Phenomenology, grounded theory, ethnography
-- Interview protocols and observation methods
-- NVivo and Atlas.ti integration
-- Thematic and narrative analysis
-
-### Quantitative Research
-
-- Experimental and survey designs
-- Statistical analysis with SPSS, R, SAS
-- Power analysis and sample size calculation
-- Advanced modeling techniques
-
-### Mixed Methods
-
-- Sequential and concurrent designs
-- Integration strategies and joint displays
-- Triangulation and validation methods
-- Meta-inferences and synthesis
-
-## 🏢 Business Research Applications
-
-### Organizational Studies
-
-- Culture and climate analysis
-- Change management research
-- Leadership development studies
-- Strategic management analysis
-
-### Industry Research
-
-- Competitive analysis
-- Market research and customer insights
-- Innovation and technology adoption
-- Performance measurement and improvement
-
-## 📊 Quality Assurance
-
-### Academic Standards
-
-- IRB compliance and research ethics
-- Validity, reliability, and trustworthiness
-- Methodological rigor and sophistication
-- Committee review and defense preparation
-
-### Business Applications
-
-- Stakeholder analysis and engagement
-- Implementation feasibility assessment
-- Cost-benefit analysis
-- Risk assessment and mitigation
+---
 
 ## 🏫 Touro University Worldwide Resources
 
@@ -433,88 +285,89 @@ Project Catalyst provides the comprehensive support system you need to complete 
 **Primary University Portal:**
 
 - [Touro University Worldwide](https://www.tuw.edu/) - Main university website and portal
-- [TUW Student Portal](https://portal.tuw.edu/) - Student services and academic portal
+- [TUW Student Portal](https://portal.tuw.edu/portal/students/) - Student services and academic portal
 - [TUW Course Catalog](https://www.tuw.edu/academics/course-catalog/) - Complete course listings and descriptions
 
 ### 📖 Library & Research Resources
 
 **Library Services:**
 
-- [TUW Library](https://library.tuw.edu/) - Main library portal and research hub
-- [Library Research Guides](https://library.tuw.edu/research-guides) - Subject-specific research assistance
-- [Database Access](https://library.tuw.edu/databases) - Academic databases and research tools
-- [LibGuides](https://tuw.libguides.com/) - Research guides and tutorials
-- [Citation Resources](https://library.tuw.edu/citation) - APA 7th edition and citation support
+- [TUW Library](https://www.tuw.edu/academics/) - Main library portal and research hub
+- [Library Research Guides](https://www.tuw.edu/academics/) - Subject-specific research assistance (contact library for access)
+- [Database Access](https://www.tuw.edu/academics/) - Academic databases and research tools (contact library for access)
+- [LibGuides](https://www.tuw.edu/academics/) - Research guides and tutorials (contact library for access)
+- [Citation Resources](https://www.tuw.edu/academics/) - APA 7th edition and citation support
 
 **Research Support:**
 
-- [Research Help Desk](https://library.tuw.edu/research-help) - One-on-one research assistance
-- [Dissertation Support](https://library.tuw.edu/dissertation) - Doctoral research resources
-- [Writing Center](https://www.tuw.edu/student-services/writing-center/) - Academic writing assistance
+- [Research Help Desk](https://www.tuw.edu/academics/) - One-on-one research assistance (contact library for access)
+- [Dissertation Support](https://www.tuw.edu/academics/) - Doctoral research resources (contact library for access)
+- [Writing Center](https://www.tuw.edu/academics/) - Academic writing assistance (contact student services for access)
 
 ### 🎓 DBA Program Resources
 
 **DBA Program Information:**
 
-- [Doctor of Business Administration](https://www.tuw.edu/programs/doctoral/dba/) - DBA program overview
-- [DBA Curriculum](https://www.tuw.edu/programs/doctoral/dba/curriculum/) - Course requirements and sequencing
-- [DBA Faculty](https://www.tuw.edu/programs/doctoral/dba/faculty/) - Faculty profiles and expertise areas
-- [DBA Admission Requirements](https://www.tuw.edu/programs/doctoral/dba/admission/) - Application process and requirements
+- [Doctor of Business Administration](https://www.tuw.edu/academics/business/) - DBA program overview
+- [DBA Curriculum](https://www.tuw.edu/academics/business/) - Course requirements and sequencing (contact program advisor)
+- [DBA Faculty](https://www.tuw.edu/academics/business/) - Faculty profiles and expertise areas (contact program advisor)
+- [DBA Admission Requirements](https://www.tuw.edu/academics/business/) - Application process and requirements
 
 **Doctoral Research Resources:**
 
-- [Dissertation Guidelines](https://www.tuw.edu/academics/dissertation-guidelines/) - Formatting and submission requirements
-- [IRB (Institutional Review Board)](https://www.tuw.edu/research/irb/) - Research ethics and approval process
-- [Academic Calendar](https://www.tuw.edu/academics/academic-calendar/) - Important dates and deadlines
-- [Graduate Academic Policies](https://www.tuw.edu/academics/policies/graduate/) - Academic standards and procedures
+- [Doctorate Management System (DMS)](https://doctorate.tuw.edu/) - **REQUIRED**: All dissertation projects must be initiated here
+- [Dissertation Guidelines](https://www.tuw.edu/academics/) - Formatting and submission requirements (contact program advisor)
+- [IRB (Institutional Review Board)](https://www.tuw.edu/academics/) - Research ethics and approval process (contact IRB office)
+- [Academic Calendar](https://www.tuw.edu/academics/) - Important dates and deadlines (contact registrar)
+- [Graduate Academic Policies](https://www.tuw.edu/academics/) - Academic standards and procedures
 
 ### 💻 Technology & Learning Platforms
 
 **Learning Management System:**
 
-- [Canvas LMS](https://tuw.instructure.com/) - Course content and assignments
-- [Canvas Mobile App](https://community.canvaslms.com/t5/Canvas-Student-Guide/How-do-I-download-the-Canvas-mobile-apps-as-a-student/ta-p/477) - Mobile access to courses
+- [Canvas LMS](https://www.tuw.edu/academics/) - Course content and assignments (contact IT for Canvas access)
+- [Canvas Mobile App](https://www.canvaslms.com/mobile/) - Mobile access to courses
 - [Canvas Student Guide](https://community.canvaslms.com/t5/Canvas-Student-Guide/tkb-p/student) - Platform navigation help
 
 **Technology Support:**
 
-- [IT Help Desk](https://www.tuw.edu/student-services/it-support/) - Technical assistance
-- [Software Downloads](https://www.tuw.edu/student-services/software/) - Student software access
-- [Email Setup](https://www.tuw.edu/student-services/email/) - Student email configuration
+- [IT Help Desk](https://www.tuw.edu/academics/) - Technical assistance (contact IT support)
+- [Software Downloads](https://www.tuw.edu/academics/) - Student software access (contact IT support)
+- [Email Setup](https://www.tuw.edu/academics/) - Student email configuration (contact IT support)
 
 ### 📞 Student Services & Support
 
 **Academic Support:**
 
-- [Academic Advising](https://www.tuw.edu/student-services/academic-advising/) - Degree planning and guidance
-- [Student Success Center](https://www.tuw.edu/student-services/student-success/) - Academic coaching and support
-- [Disability Services](https://www.tuw.edu/student-services/disability-services/) - Accommodations and accessibility
+- [Academic Advising](https://www.tuw.edu/academics/) - Degree planning and guidance (contact student services)
+- [Student Success Center](https://www.tuw.edu/academics/) - Academic coaching and support (contact student services)
+- [Disability Services](https://www.tuw.edu/academics/) - Accommodations and accessibility (contact student services)
 
 **Administrative Services:**
 
-- [Registrar](https://www.tuw.edu/academics/registrar/) - Transcripts, enrollment, and records
-- [Financial Aid](https://www.tuw.edu/tuition-aid/financial-aid/) - Funding and scholarship information
-- [Student Accounts](https://www.tuw.edu/tuition-aid/student-accounts/) - Billing and payment services
+- [Registrar](https://www.tuw.edu/academics/) - Transcripts, enrollment, and records (contact registrar)
+- [Financial Aid](https://www.tuw.edu/academics/) - Funding and scholarship information (contact financial aid office)
+- [Student Accounts](https://www.tuw.edu/academics/) - Billing and payment services (contact student accounts)
 
 ### 🔬 Research & Ethics Resources
 
 **Research Compliance:**
 
-- [Human Subjects Research](https://www.tuw.edu/research/human-subjects/) - IRB protocols and training
-- [Research Ethics Training](https://www.tuw.edu/research/ethics-training/) - CITI program and compliance
-- [Data Security Guidelines](https://www.tuw.edu/research/data-security/) - Research data protection
+- [Human Subjects Research](https://www.tuw.edu/academics/) - IRB protocols and training (contact IRB office)
+- [Research Ethics Training](https://www.tuw.edu/academics/) - CITI program and compliance (contact IRB office)
+- [Data Security Guidelines](https://www.tuw.edu/academics/) - Research data protection (contact IT/IRB office)
 
 **Publication & Dissemination:**
 
-- [Scholarly Communication](https://library.tuw.edu/scholarly-communication) - Publication guidance and support
-- [Open Access Resources](https://library.tuw.edu/open-access) - Publishing and copyright information
-- [Research Showcase](https://www.tuw.edu/research/showcase/) - Student research presentations
+- [Scholarly Communication](https://www.tuw.edu/academics/) - Publication guidance and support (contact library)
+- [Open Access Resources](https://www.tuw.edu/academics/) - Publishing and copyright information (contact library)
+- [Research Showcase](https://www.tuw.edu/academics/) - Student research presentations (contact program office)
 
 ### 📧 Key Contact Information
 
 **DBA Program Contacts:**
 
-- **DBA Program Director**: [Contact via program page](https://www.tuw.edu/programs/doctoral/dba/faculty/)
+- **DBA Program Director**: [Contact via main academics page](https://www.tuw.edu/academics/) - Use contact form or phone
 - **Academic Advisors**: Available through student portal scheduling
 - **Dissertation Committee**: Faculty assignments through program coordinator
 
@@ -528,14 +381,15 @@ Project Catalyst provides the comprehensive support system you need to complete 
 
 **Daily Use Links:**
 
-- [Student Portal Login](https://portal.tuw.edu/) - Primary access point
-- [Canvas Courses](https://tuw.instructure.com/) - Course materials and assignments
-- [Library Databases](https://library.tuw.edu/databases) - Research resources
+- [Student Portal](https://portal.tuw.edu/portal/students/) - Primary access point for student services
+- [Doctorate Management System (DMS)](https://doctorate.tuw.edu/) - **START HERE**: Dissertation project initiation and tracking
+- [Canvas Courses](https://www.tuw.edu/academics/) - Course materials and assignments (contact IT for Canvas access)
+- [Library Databases](https://www.tuw.edu/academics/) - Research resources (contact library for access)
 - [Email Access](https://outlook.office365.com/) - Student email system
 
 **Research Workflow Links:**
 
-- [Database Search](https://library.tuw.edu/databases) → [Citation Manager](https://library.tuw.edu/citation) → [Writing Center](https://www.tuw.edu/student-services/writing-center/) → [IRB Submission](https://www.tuw.edu/research/irb/)
+- [Database Search](https://www.tuw.edu/academics/) → [Citation Manager](https://www.tuw.edu/academics/) → [Writing Center](https://www.tuw.edu/academics/) → [IRB Submission](https://www.tuw.edu/academics/) (contact respective departments for access)
 
 ## 🤝 Contributing
 

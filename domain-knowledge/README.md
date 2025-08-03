@@ -38,6 +38,18 @@ Each domain knowledge file follows a structured format for systematic knowledge 
   - ✅ **DO**: Reference for troubleshooting technical issues
   - ✅ **DO**: Apply for consistent workflow optimization
   - ✅ **DO**: Share relevant sections with fellow doctoral candidates
+
+#### 📄 DK-DOCUMENTATION-VERIFICATION.md
+
+- **Contains**: Documentation quality assurance protocols, university URL verification, duplicate content cleanup
+- **Doctoral Candidate Actions**:
+  - ✅ **DO**: Reference for maintaining high-quality documentation
+  - ✅ **DO**: Use for systematic verification of university resource links
+  - ✅ **DO**: Apply when cleaning up academic documentation
+  - ✅ **DO**: Follow protocols for ensuring user experience continuity
+- **Avoid**:
+  - ❌ **DON'T**: Skip verification steps when creating new documentation
+  - ❌ **DON'T**: Leave broken links without alternative access paths
 - **Avoid**:
   - ❌ **DON'T**: Ignore system maintenance recommendations
 
