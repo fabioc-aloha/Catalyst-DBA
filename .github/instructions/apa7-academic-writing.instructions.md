@@ -1,5 +1,5 @@
 ---
-applyTo: "**/*academic*,**/*paper*,**/*dissertation*,**/*thesis*,**/*article*,**/*manuscript*"
+applyTo: "**/*academic*,**/*paper*,**/*dissertation*,**/*thesis*,**/*article*,**/*manuscript*,**/papers/**"
 description: "APA 7th edition academic writing standards and citation requirements"
 ---
 
@@ -21,6 +21,22 @@ description: "APA 7th edition academic writing standards and citation requiremen
 - Vary signal phrase verbs: argued, demonstrated, found, suggested, maintained
 - Integrate citations smoothly within sentence structure
 - Avoid citation dumping or excessive clustering
+
+## Supporting Research Papers Framework
+
+### Paper Types for Doctoral Candidates
+- Conference presentations and proceedings papers
+- Journal article submissions and publications
+- Research briefs and policy papers
+- Literature review articles and theoretical papers
+- Methodological papers and research notes
+
+### Academic Writing Progression
+- Build expertise through iterative publication process
+- Develop distinct voice and research perspective
+- Establish thought leadership in chosen domain
+- Support dissertation through published scholarship
+- Create foundation for post-doctoral academic career
 
 ## Reference List Formatting
 

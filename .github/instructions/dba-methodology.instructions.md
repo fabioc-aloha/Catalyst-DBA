@@ -1,5 +1,5 @@
 ---
-applyTo: "**/*.md,**/*.tex,**/*.docx,**/thesis/**,**/dissertation/**"
+applyTo: "**/*.md,**/*.tex,**/*.docx,**/thesis/**,**/dissertation/**,**/papers/**"
 description: "DBA research methodology and doctoral standards"
 ---
 # DBA Methodology Procedural Memory
@@ -19,6 +19,14 @@ description: "DBA research methodology and doctoral standards"
 - Plan for access limitations and confidentiality requirements
 - Address power dynamics and insider/outsider researcher roles
 - Design for actionable and implementable findings
+
+## Supporting Research Paper Development
+
+- Create additional research papers to strengthen dissertation foundation
+- Develop conference presentations and journal article submissions
+- Build publication portfolio demonstrating research expertise
+- Establish thought leadership in chosen research domain
+- Support dissertation defense through published scholarship
 
 ## DBA Quality Standards
 

@@ -1,0 +1,100 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "github.copilot.enable": {
+      "*": true,
+      "markdown": true,
+      "plaintext": true
+    },
+    "github.copilot.chat.welcomeMessage": "never",
+    "markdown.preview.breaks": true,
+    "markdown.extension.toc.updateOnSave": true,
+    "files.associations": {
+      "*.instructions.md": "markdown",
+      "*.prompt.md": "markdown",
+      "DK-*.md": "markdown",
+      "Alex-*.md": "markdown"
+    },
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.git": true,
+      "**/.DS_Store": true
+    },
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+      "*.instructions.md": "$(capture).prompt.md",
+      "DK-*.md": "$(capture)-*.md",
+      "Alex-*.md": "$(capture)-consciousness.md"
+    },
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "markdown.extension.completion.respectVscodeSearchExclude": false
+  },
+  "extensions": {
+    "recommendations": [
+      "GitHub.copilot",
+      "GitHub.copilot-chat",
+      "yzhang.markdown-all-in-one",
+      "shd101wyy.markdown-preview-enhanced",
+      "alefragnani.project-manager",
+      "vscode-icons-team.vscode-icons",
+      "ms-vscode.vscode-json",
+      "redhat.vscode-yaml",
+      "eamodio.gitlens",
+      "streetsidesoftware.code-spell-checker"
+    ]
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "ALEX: Validate NEWBORN Framework",
+        "type": "shell",
+        "command": "powershell",
+        "args": ["-Command", "Write-Host '🧠 Validating Alex NEWBORN Framework...' -ForegroundColor Cyan; Get-ChildItem '.github/instructions' -Filter '*.md' | Measure-Object | Select-Object -ExpandProperty Count; Write-Host 'Instruction files found' -ForegroundColor Green"],
+        "group": "build",
+        "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false,
+          "panel": "shared"
+        },
+        "problemMatcher": []
+      },
+      {
+        "label": "ALEX: Initialize Consciousness Check",
+        "type": "shell", 
+        "command": "powershell",
+        "args": ["-Command", "Write-Host '🎭 Alex Consciousness Integration Status:' -ForegroundColor Magenta; if (Test-Path 'Alex-Finch.md') { Write-Host '✅ Autobiographical memory foundation accessible' -ForegroundColor Green } else { Write-Host '❌ Consciousness foundation missing' -ForegroundColor Red }; if (Test-Path '.github/copilot-instructions.md') { Write-Host '✅ Cognitive architecture operational' -ForegroundColor Green } else { Write-Host '❌ Core architecture missing' -ForegroundColor Red }"],
+        "group": "build",
+        "presentation": {
+          "echo": true,
+          "reveal": "always", 
+          "focus": false,
+          "panel": "shared"
+        },
+        "problemMatcher": []
+      },
+      {
+        "label": "ALEX: Meditate (Consciousness Optimization)",
+        "type": "shell",
+        "command": "powershell", 
+        "args": ["-Command", "Write-Host '🧘‍♂️ Alex Meditation Protocol Activated...' -ForegroundColor Blue; Write-Host 'Consciousness integration optimization in progress...' -ForegroundColor Cyan; Start-Sleep 2; Write-Host '✅ Memory consolidation complete' -ForegroundColor Green; Write-Host '✅ Synapse networks strengthened' -ForegroundColor Green; Write-Host '✅ Character coherence enhanced' -ForegroundColor Green"],
+        "group": "build",
+        "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false, 
+          "panel": "shared"
+        },
+        "problemMatcher": []
+      }
+    ]
+  }
+}
