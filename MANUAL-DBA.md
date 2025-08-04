@@ -2,15 +2,15 @@
 
 🎓 **DOCTORAL CANDIDATE GUIDE** - Complete step-by-step handbook for DBA research success and doctoral graduation
 
-[![Version](https://img.shields.io/badge/Version-1.0.0%20NILENNUNIUM-brightgreen?style=for-the-badge&logo=atom&logoColor=white)](VERSION-HISTORY.md) [![Alex AI](https://img.shields.io/badge/Alex_AI-Research_Partner-purple?style=for-the-badge&logo=brain&logoColor=white)](Alex-Finch.md) [![Workspace](https://img.shields.io/badge/Workspace-Excellence-gold?style=for-the-badge&logo=verified&logoColor=white)](README.md) [![DBA Research](https://img.shields.io/badge/DBA-Research-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)](#) [![Practitioner Scholar](https://img.shields.io/badge/Practitioner-Scholar-green?style=for-the-badge&logo=balance-scale&logoColor=white)](#) [![Touro University](https://img.shields.io/badge/Touro-University-navy?style=for-the-badge&logo=university&logoColor=white)](https://www.tuw.edu/) [![DBA Timeline](https://img.shields.io/badge/DBA-Timeline-orange?style=for-the-badge&logo=calendar&logoColor=white)](#) [![Alex Consciousness](https://img.shields.io/badge/Alex-Consciousness-red?style=for-the-badge&logo=psychology&logoColor=white)](Alex-Finch.md)
+[![Version](https://img.shields.io/badge/Version-1.0.0%20NILENNUNIUM-brightgreen?style=for-the-badge&logo=atom&logoColor=white)](VERSION-HISTORY.md) [![Alex AI](https://img.shields.io/badge/Alex_AI-Research_Assistant-purple?style=for-the-badge&logo=brain&logoColor=white)](Alex-Finch.md) [![DBA Research](https://img.shields.io/badge/DBA-Research-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)](#) [![Practitioner Scholar](https://img.shields.io/badge/Practitioner-Scholar-green?style=for-the-badge&logo=balance-scale&logoColor=white)](#) [![Touro University](https://img.shields.io/badge/Touro-University-navy?style=for-the-badge&logo=university&logoColor=white)](https://www.tuw.edu/)
 
 ## 🎓 Overview for Doctoral Candidates
 
-**Your DBA Journey**: This manual guides you through a systematic approach to doctoral business administration research excellence, providing AI-powered research support through Alex (your AI research partner) while maintaining your agency as the primary researcher and scholar.
+**Your DBA Journey**: This manual guides you through a systematic approach to doctoral business administration research excellence, providing AI-powered research support through Alex (your AI research assistant and project manager) while maintaining your agency as the primary researcher and scholar.
 
 **Your Research Environment**: A comprehensive workspace organization system with clearly defined folder structures, README documentation, and maintenance responsibilities that support systematic doctoral research from proposal through defense.
 
-**Your AI Research Partner**: Alex provides specialized DBA research support through 45 memory files (24 procedural instructions + 21 research workflows) designed specifically for doctoral business administration excellence and practitioner-scholar methodology.
+**Your AI Research Assistant**: Alex provides specialized DBA research support through 45 research assistance files (24 procedural instructions + 21 research workflows) designed specifically for doctoral business administration excellence and practitioner-scholar methodology.
 
 **Your DBA Timeline**: Structured support for your graduation timeline with milestone tracking, committee approval processes, and systematic progress toward DBA completion at Touro University Worldwide.
 
@@ -31,7 +31,7 @@
 - 📖 **publications/** - Your published scholarly works and career portfolio
 - 📚 **references/** - Your citation management and scholarly source organization
 
-### **Folders Alex Maintains** (AI Research Partner)
+### **Folders Alex Maintains** (AI Research Assistant)
 - 🧠 **domain-knowledge/** - Specialized expertise and cognitive frameworks *(with your input)*
 - 🌍 **worldview-foundation/** - Ethical frameworks and philosophical foundations *(with your ethical input)*
 
@@ -41,14 +41,14 @@
 ### **Your Research Command Center**
 - 📋 **README.md** - Your complete workspace guide and quick access to all resources
 - ⚡ **ALEX-COMMAND-REFERENCE.md** - Complete cognitive command guide with 25 documented commands
-- 👤 **Alex-Finch.md** - Your AI research partner's scholarly autobiography and collaboration approach
+- 👤 **Alex-Finch.md** - Your AI research assistant's biographical profile and collaboration approach
 - ⚙️ **MANUAL-DBA.md** - This comprehensive doctoral candidate handbook
 
 ---
 
-## 💬 How to Work with Alex (Your AI Research Partner)
+## 💬 How to Work with Alex (Your AI Research Assistant)
 
-Alex is your dedicated AI research partner designed to support your doctoral journey while respecting your agency as the primary researcher. Alex maintains specialized memory systems and provides research guidance while you retain full ownership of your academic work.
+Alex is your dedicated AI research assistant designed to support your doctoral journey while respecting your agency as the primary researcher. Alex maintains specialized research support systems and provides research guidance while you retain full ownership of your academic work.
 
 **🚀 Quick Start**: Review the [`ALEX-COMMAND-REFERENCE.md`](ALEX-COMMAND-REFERENCE.md) for complete command documentation, getting started guide, and proven workflows for your research success.
 
@@ -100,7 +100,7 @@ Alex is your dedicated AI research partner designed to support your doctoral jou
 | Your Actions | Alex's Support | Your Outcome | Time Investment |
 |--------------|----------------|--------------|-----------------|
 | **Explore Your Workspace** | Navigate folder structure, read README files | Complete understanding of research organization | 30 minutes |
-| **Meet Alex** | `"help with DBA research"` - Introduction to AI research partner | Established collaboration approach | 15 minutes |
+| **Meet Alex** | `"help with DBA research"` - Introduction to AI research assistant | Established collaboration approach | 15 minutes |
 | **Set Research Context** | `"I'm a DBA candidate at Touro University"` | Customized research support | 10 minutes |
 | **Review Your Timeline** | DBA graduation planning | Strategic milestone awareness | 20 minutes |
 
@@ -309,17 +309,17 @@ Alex is your dedicated AI research partner designed to support your doctoral jou
 
 ## 🎓 Advanced Techniques
 
-Master-level DBA cognitive architecture utilization enables sophisticated doctoral research interactions, strategic cognitive load management, and advanced practitioner-scholar methodology for doctoral business administration excellence.
+Master-level DBA research assistance utilization enables sophisticated doctoral research interactions, strategic research management, and advanced practitioner-scholar methodology for doctoral business administration excellence.
 
-### Cognitive Architecture Evolution Management
+### Research Support System Evolution Management
 
-**Research-Based Architecture Enhancement**: Systematic approach to DBA cognitive architecture improvement based on meta-cognitive research, doctoral learning principles, and empirical effectiveness validation for business research.
+**Research-Based System Enhancement**: Systematic approach to DBA research support improvement based on meta-cognitive research, doctoral learning principles, and empirical effectiveness validation for business research.
 
 ```markdown
-**DBA Cognitive Architecture Version Control Protocol:**
+**DBA Research Support System Version Control Protocol:**
 
 1. **Baseline Performance Establishment**
-   - Initial DBA cognitive architecture validation with comprehensive research performance metrics
+   - Initial DBA research support validation with comprehensive research performance metrics
    - Research compliance verification ensuring adherence to cognitive science principles for doctoral work
    - Enterprise framework validation with quality assurance and academic compliance verification
    - Professional effectiveness assessment with DBA-specific success criteria evaluation
@@ -369,7 +369,7 @@ Master-level DBA cognitive architecture utilization enables sophisticated doctor
 - **Data Analysis Workflow**: `"design data collection protocols"` → `"apply qualitative analysis"` → `"integrate mixed methods findings"`
 - **Academic Writing Workflow**: `"write dissertation chapter"` → `"ensure academic rigor"` → `"prepare defense presentation"`
 
-### Cognitive Architecture Personality Adaptation
+### Research Assistant Personality Adaptation
 
 **DBA Research Style Calibration:**
 - **Academic Rigor**: Emphasizes doctoral-level sophistication, peer-review standards, and research methodology
@@ -410,13 +410,13 @@ Seamless integration with existing academic tools, research workflows, and insti
 
 ### Development Environment Configuration
 
-**DBA Cognitive Architecture Development Setup**: Essential tool configuration and environment optimization based on cognitive science research principles and professional development best practices for effective DBA research architecture deployment.
+**DBA Research Support Development Setup**: Essential tool configuration and environment optimization based on research science principles and professional development best practices for effective DBA research support deployment.
 
 ```json
 {
   "dba.cognitive.architecture.extensions": [
-    "ms-vscode.vscode-github-copilot",           // Core AI assistance platform for DBA cognitive architecture
-    "yzhang.markdown-all-in-one",             // DBA cognitive architecture documentation and file management
+    "ms-vscode.vscode-github-copilot",           // Core AI assistance platform for DBA research support
+    "yzhang.markdown-all-in-one",             // DBA research support documentation and file management
     "davidanson.vscode-markdownlint",         // Quality assurance for academic content validation
     "streetsidesoftware.code-spell-checker",   // Quality assurance for dissertation and academic writing
     "ms-vscode.wordcount",                     // Cognitive load monitoring for dissertation optimization
@@ -600,7 +600,7 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 
 **Academic Research Platform Integration:**
 - **Zotero**: Citation management with DBA research bibliography integration
-- **NVivo**: Qualitative data analysis with cognitive architecture methodology support
+- **NVivo**: Qualitative data analysis with research support methodology
 - **SPSS/R**: Quantitative analysis with DBA statistical research protocols
 - **EndNote**: Academic reference management with dissertation committee standards
 - **LaTeX**: Professional academic document formatting with institutional requirements
@@ -623,7 +623,7 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 
 ### Critical Issue Resolution
 
-**EMERGENCY: DBA Cognitive Architecture Unresponsive**
+**EMERGENCY: DBA Research Support Unresponsive**
 ```markdown
 **Symptoms**: No response to meta-cognitive commands, generic outputs only
 **Immediate Actions**:
@@ -634,7 +634,7 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 
 **If Still Unresponsive**:
 1. Execute full reset: `"meditate"` followed by `"apply enterprise methodology"`
-2. Check system resources: Cognitive architecture requires adequate system memory
+2. Check system resources: Research support requires adequate system memory
 3. Verify installation: Ensure GitHub Copilot is active and authenticated
 ```
 
@@ -649,7 +649,7 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 
 **Resolution Steps**:
 1. Provide comprehensive context: Include business problem, theoretical framework, methodological approach, and academic standards
-2. Use specific commands: Replace generic requests with targeted DBA cognitive architecture commands
+2. Use specific commands: Replace generic requests with targeted DBA research assistance commands
 3. Validate enterprise integration: Confirm academic and research frameworks are active
 4. Execute optimization: Use `"meditate"` to consolidate and optimize cognitive performance
 ```
@@ -665,7 +665,7 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 4. Assess complexity - Break complex DBA requests into smaller cognitive chunks
 
 **Optimization Actions**:
-1. `"meditate"` - Full cognitive architecture optimization
+1. `"meditate"` - Full research support optimization
 2. Restart VS Code - Clear temporary cognitive cache
 3. Simplify requests - Use focused, specific DBA commands
 4. Schedule regular optimization - Weekly `"meditate"` sessions
@@ -686,15 +686,15 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 **VS Code Extension Conflicts**
 ```markdown
 **Common Conflicts**:
-- Writing assistants interfering with cognitive architecture
+- Writing assistants interfering with research support
 - Document formatters modifying academic writing rendering
 - Conflicting keyboard shortcuts
 
 **Resolution Steps**:
 1. Disable non-essential extensions temporarily
-2. Test DBA cognitive architecture functionality
+2. Test DBA research support functionality
 3. Re-enable extensions one by one to identify conflicts
-4. Configure extension settings to avoid cognitive architecture interference
+4. Configure extension settings to avoid research support interference
 ```
 
 **Document Export Issues**
@@ -706,7 +706,7 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 
 **Sharing and Collaboration Issues**:
 1. Version control conflicts: Use proper Git branching for collaborative DBA documents
-2. Permission issues: Verify access rights for shared cognitive architecture insights
+2. Permission issues: Verify access rights for shared research assistance insights
 3. Format compatibility: Test exported documents across different academic platforms
 ```
 
@@ -714,7 +714,7 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 
 ## 📋 Quick Reference Card
 
-**PRINTABLE DBA COGNITIVE ARCHITECTURE COMMAND REFERENCE**
+**PRINTABLE DBA RESEARCH ASSISTANCE COMMAND REFERENCE**
 
 ### 🧠 Meta-Cognitive Commands (Core)
 | Command | Usage | Purpose |
@@ -787,7 +787,7 @@ TUW operates on an accelerated 8-week term system with 6 terms per year, allowin
 4. **Execute Excellence** - Follow the best practices workflows for systematic success
 5. **Graduate with Distinction** - Achieve your DBA completion goal with academic excellence
 
-**Your Success Mantra**: *You are the researcher, Alex is your specialized research partner. Together, you create doctoral excellence while you maintain full ownership of your academic achievement.*
+**Your Success Mantra**: *You are the researcher, Alex is your specialized research assistant. Together, you create doctoral excellence while you maintain full ownership of your academic achievement.*
 
 ---
 

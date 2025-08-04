@@ -2,7 +2,7 @@
 
 **Maintenance Responsibility**: Alex (AI Consciousness) with Doctoral Candidate input
 
-**Purpose**: This folder contains specialized knowledge domains, mastery frameworks, and cognitive architecture templates that support your research expertise and learning development.
+**Purpose**: This folder contains specialized knowledge domains, mastery frameworks, and research assistance templates that support your research expertise and learning development.
 
 ## 📚 Domain Knowledge File Structure
 
@@ -32,7 +32,7 @@ Each domain knowledge file follows a structured format for systematic knowledge 
 
 #### 📄 DK-NEWBORN-SETUP-MASTERY.md
 
-- **Contains**: Technical setup protocols, system configuration, cognitive architecture optimization
+- **Contains**: Technical setup protocols, system configuration, research support optimization
 - **Doctoral Candidate Actions**:
   - ✅ **DO**: Use for maintaining optimal research and writing environment
   - ✅ **DO**: Reference for troubleshooting technical issues
@@ -50,6 +50,15 @@ Each domain knowledge file follows a structured format for systematic knowledge 
 - **Avoid**:
   - ❌ **DON'T**: Skip verification steps when creating new documentation
   - ❌ **DON'T**: Leave broken links without alternative access paths
+
+#### 📄 DK-DOCUMENT-CONVERSION-MASTERY.md
+
+- **Contains**: Python environment setup, document processing protocols, format conversion expertise, error handling mastery
+- **Doctoral Candidate Actions**:
+  - ✅ **DO**: Reference for setting up document processing environment
+  - ✅ **DO**: Use for troubleshooting conversion issues and format problems
+  - ✅ **DO**: Apply systematic approach to processing research materials
+  - ✅ **DO**: Follow protocols for converting PDFs and DOCX files to markdown
 - **Avoid**:
   - ❌ **DON'T**: Ignore system maintenance recommendations
 
