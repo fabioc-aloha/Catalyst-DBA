@@ -58,8 +58,8 @@ Get-ChildItem -Recurse -Include *.pdf,*.docx,*.doc | ForEach-Object {
 }
 
 # 2. Unsupported format reporting
-Get-ChildItem -Recurse -Exclude *.pdf,*.docx,*.doc,*.md | Where-Object {!$_.PSIsContainer} | 
-    Select-Object Name, Extension | Group-Object Extension | 
+Get-ChildItem -Recurse -Exclude *.pdf,*.docx,*.doc,*.md | Where-Object {!$_.PSIsContainer} |
+    Select-Object Name, Extension | Group-Object Extension |
     Select-Object Name, Count | Sort-Object Count -Descending
 ```
 
