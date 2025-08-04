@@ -53,13 +53,6 @@ __pycache__/
 # BACKUP AND TEMPORARY FILES
 # =============================================================================
 
-# Auto-generated backups
-*.backup
-*.old
-*.tmp
-*-backup.*
-*_backup.*
-
 # Cache and temporary processing
 .cache/
 .temp/

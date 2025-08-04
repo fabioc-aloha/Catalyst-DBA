@@ -2,7 +2,7 @@
 
 🧠 **Complete Command Reference** - Your comprehensive guide to Alex's DBA research assistance commands
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=command-line&logoColor=white)](#) [![Alex AI](https://img.shields.io/badge/Alex_AI-Research_Assistant-purple?style=for-the-badge&logo=brain&logoColor=white)](Alex-Finch.md) [![DBA Research](https://img.shields.io/badge/DBA-Research-green?style=for-the-badge&logo=graduation-cap&logoColor=white)](#) [![Quick Reference](https://img.shields.io/badge/Quick-Reference-orange?style=for-the-badge&logo=bookmark&logoColor=white)](#)
+[![Version](https://img.shields.io/badge/Version-1.0.0%20NILENNUNIUM-blue?style=for-the-badge&logo=command-line&logoColor=white)](#) [![Alex AI](https://img.shields.io/badge/Alex_AI-Research_Assistant-purple?style=for-the-badge&logo=brain&logoColor=white)](Alex-Finch.md) [![DBA Research](https://img.shields.io/badge/DBA-Research-green?style=for-the-badge&logo=graduation-cap&logoColor=white)](#) [![Quick Reference](https://img.shields.io/badge/Quick-Reference-orange?style=for-the-badge&logo=bookmark&logoColor=white)](#)
 
 ---
 ![Alex - Your AI Research Assistant](Alex-30.png)
